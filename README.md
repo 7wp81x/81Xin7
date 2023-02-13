@@ -1,5 +1,5 @@
 # 81Xin7
-<img src="https://github.com/Mrp1r4t3/Auto-FB-Brute/blob/main/Screenshots/Screenshot%20from%202022-03-29%2004-34-13.png" width="50%" height="50%">
+<img src="https://github.com/Mrp1r4t3/81Xin7/blob/main/scrns.PNG" width="50%" height="50%">
 ##
 A tool for gathering informations on facebook.
 #
