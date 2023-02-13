@@ -1,6 +1,5 @@
 # 81Xin7
 <img src="https://github.com/Mrp1r4t3/81Xin7/blob/main/scrns.PNG" width="30%" height="30%">
-##
 
 A tool for gathering informations on facebook.
 
